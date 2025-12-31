@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "date": "2025-12-29",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "FRUTAS CÍTRICAS",
+        "palavras": ["LIMÃO", "LARANJA", "TANGERINA", "TORANJA"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "PEÇAS DE XADREZ",
+        "palavras": ["PEÃO", "TORRE", "BISPO", "REI"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "CORES",
+        "palavras": ["vermelho", "VERDE", "PRETO", "BRANCO"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "FRAGRANCIAS DE INCENSO",
+        "palavras": ["ALFAZEMA", "CRAVO", "CANELA", "OXALÁ"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2025-12-30",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "exemplo",
+        "palavras": ["1", "2", "3", "4"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "sas",
+        "palavras": ["5", "6", "7", "8"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "lal",
+        "palavras": ["9", "10", "11", "12"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "pap",
+        "palavras": ["13", "14", "15", "16"]
+      }
+    ]
+  }
+  {
+    "id": 3,
+    "date": "2025-12-31",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "LETRAS 1",
+        "palavras": ["A", "B", "C", "D"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "LETRAS 2",
+        "palavras": ["E", "F", "G", "H"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "LETRAS 3",
+        "palavras": ["I", "J", "K", "L"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "LETRAS 4",
+        "palavras": ["M", "N", "O", "P"]
+      }
+    ]
+  }
+]
