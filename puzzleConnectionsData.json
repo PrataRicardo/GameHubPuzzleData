@@ -19,12 +19,12 @@
         "id": 3,
         "dificuldade": "dificil",
         "tema": "CORES",
-        "palavras": ["vermelho", "VERDE", "PRETO", "BRANCO"]
+        "palavras": ["VERMELHO", "VERDE", "PRETO", "BRANCO"]
       },
       {
         "id": 4,
         "dificuldade": "extremo",
-        "tema": "FRAGRANCIAS DE INCENSO",
+        "tema": "FRAGRÂNCIAS DE INCENSO",
         "palavras": ["ALFAZEMA", "CRAVO", "CANELA", "OXALÁ"]
       }
     ]
@@ -36,26 +36,26 @@
       {
         "id": 1,
         "dificuldade": "facil",
-        "tema": "exemplo",
-        "palavras": ["1", "2", "3", "4"]
+        "tema": "FRUTAS",
+        "palavras": ["ABACAXI", "BANANA", "MELÃO", "MARACUJÁ"]
       },
       {
         "id": 2,
         "dificuldade": "medio",
-        "tema": "sas",
-        "palavras": ["5", "6", "7", "8"]
+        "tema": "PARTES DE UMA PLANTA",
+        "palavras": ["FLOR", "FOLHA", "PÉTALAS", "FRUTO"]
       },
       {
         "id": 3,
         "dificuldade": "dificil",
-        "tema": "lal",
-        "palavras": ["9", "10", "11", "12"]
+        "tema": "PARTES DE UMA CAMISA",
+        "palavras": ["MANGA", "GOLA", "PUNHO", "BOTÃO"]
       },
       {
         "id": 4,
         "dificuldade": "extremo",
-        "tema": "pap",
-        "palavras": ["13", "14", "15", "16"]
+        "tema": "CIDADES DO TOCANTINS",
+        "palavras": ["PALMAS", "COLMÉIA", "ARRAIAS", "CAMPOS LINDOS"]
       }
     ]
   },
@@ -66,26 +66,206 @@
       {
         "id": 1,
         "dificuldade": "facil",
-        "tema": "LETRAS 1",
-        "palavras": ["A", "B", "C", "D"]
+        "tema": "SINÔNIMOS DE DINHEIRO",
+        "palavras": ["NOTA", "MOEDA", "GRANA", "TOSTÃO"]
       },
       {
         "id": 2,
         "dificuldade": "medio",
-        "tema": "LETRAS 2",
-        "palavras": ["E", "F", "G", "H"]
+        "tema": "COMPONENTES DE CELULAR",
+        "palavras": ["BATERIA", "ANTENA", "SENSOR", "MÓDULOS"]
       },
       {
         "id": 3,
         "dificuldade": "dificil",
-        "tema": "LETRAS 3",
-        "palavras": ["I", "J", "K", "L"]
+        "tema": "ESCOLA DE SAMBA",
+        "palavras": ["ALA", "CARRO", "MESTRE-SALA", "PORTA-BANDEIRA"]
       },
       {
         "id": 4,
         "dificuldade": "extremo",
-        "tema": "LETRAS 4",
-        "palavras": ["M", "N", "O", "P"]
+        "tema": "RELACIONADOS A ESCOLA",
+        "palavras": ["PROVA", "TRABALHO", "BOLETIM", "FALTAS"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-01-01",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "ANIMAIS DE FAZENDA",
+        "palavras": ["VACA", "CAVALO", "BODE", "CACHORRO"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "RITMOS DE DANÇA",
+        "palavras": ["FREVO", "FORRÓ", "TANGO", "BOLERO"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "FERRAMENTAS",
+        "palavras": ["CHAVE DE FENDA", "ALICATE", "MARTELO", "CHAVE DE BOCA"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "PÉ DE ___",
+        "palavras": ["MOLEQUE", "MEIA", "CABRA", "VALSA"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2026-01-02",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "ORGANISMOS MARINHOS",
+        "palavras": ["ALGA", "ESPONJA", "OURIÇO", "ESTRELA"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "ANIMAIS DAS CASAS DE HOGWARTS",
+        "palavras": ["COBRA", "LEÃO", "TEXUGO", "ÁGUIA"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "SINÔNIMOS DE COBRAR (VERBO)",
+        "palavras": ["DEMANDA", "EXIGE", "REQUER", "SOLICITA"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "COBRA ___",
+        "palavras": ["CORAL", "CEGA", "FUMOU", "KAI"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2026-01-03",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "NAIPES DO BARALHO",
+        "palavras": ["COPAS", "OUROS", "ESPADA", "PAUS"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "ARMAS BRANCAS",
+        "palavras": ["ADAGA", "FACA", "SABRE", "PUNHAL"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "PLANTAS DE JARDIM",
+        "palavras": ["ROSEIRA", "GRAMA", "ARBUSTO", "ORQUÍDEA"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "DIVINDADES E SANTOS",
+        "palavras": ["HERA", "SÃO-JORGE", "IEMANJÁ", "SHIVA"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2026-01-04",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "SINAIS GRÁFICOS",
+        "palavras": ["VÍRGULA", "CRASE", "ASPAS", "AGUDO"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "PONTOS DA CARNE",
+        "palavras": ["AO PONTO", "MALPASSADO", "BEM PASSADO", "CRU"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "CONDIÇÕES VISUAIS",
+        "palavras": ["DALTÔNICO", "MÍOPE", "ESTRÁBICO", "ASTIGMATISMO"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "PONTO ___",
+        "palavras": ["MORTO", "CEGO", "G", "FINAL"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "date": "2026-01-05",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "AVES",
+        "palavras": ["PAPAGAIO", "AVESTRUZ", "GANSO", "POMBA"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "PERSONAGENS KUNG-FU PANDA",
+        "palavras": ["PANDA", "TIGRE", "GARÇA", "MACACO"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "INGREDIENTES DA FEIJOADA",
+        "palavras": ["COUVE", "PORCO", "FEIJÃO", "LARANJA"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "MASCOTES DE TIMES BR",
+        "palavras": ["GALO", "BALEIA", "RAPOSA", "MOSQUETEIRO"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "date": "2026-01-06",
+    "grupos": [
+      {
+        "id": 1,
+        "dificuldade": "facil",
+        "tema": "MAQUIAGEM",
+        "palavras": ["LÁPIS", "PINCEL", "BLUSH", "BATOM"]
+      },
+      {
+        "id": 2,
+        "dificuldade": "medio",
+        "tema": "PINTURA",
+        "palavras": ["TINTA", "TELA", "ESPÁTULA", "PALETA"]
+      },
+      {
+        "id": 3,
+        "dificuldade": "dificil",
+        "tema": "FUNÇÕES INORGÂNICAS",
+        "palavras": ["BASES", "ÁCIDOS", "ÓXIDOS", "SAIS"]
+      },
+      {
+        "id": 4,
+        "dificuldade": "extremo",
+        "tema": "FENÔMENOS DE LUZ E SOMBRA",
+        "palavras": ["SOMBRA", "PENUMBRA", "UMBRA", "ECLIPSE"]
       }
     ]
   }
