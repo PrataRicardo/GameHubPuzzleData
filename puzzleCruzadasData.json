@@ -1,0 +1,318 @@
+[
+  {
+    "id": 1,
+    "date": "2026-01-15",
+    "cols": 10,
+    "rows": 10,
+    "entries": [
+      {
+        "id": "1-across",
+        "number": 1,
+        "direction": "across",
+        "clue": "Avaliar algo ou alguém abaixo do seu valor real.",
+        "answer": "SUBESTIMAR",
+        "start": {
+          "row": 0,
+          "col": 0
+        }
+      },
+      {
+        "id": "1-down",
+        "number": 1,
+        "direction": "down",
+        "clue": "Estado afetivo; emoção.",
+        "answer": "SENTIMENTO",
+        "start": {
+          "row": 0,
+          "col": 0
+        }
+      },
+      {
+        "id": "2-down",
+        "number": 2,
+        "direction": "down",
+        "clue": "Pronome pessoal feminino (3ª pessoa).",
+        "answer": "ELA",
+        "start": {
+          "row": 0,
+          "col": 3
+        }
+      },
+      {
+        "id": "3-down",
+        "number": 3,
+        "direction": "down",
+        "clue": "Gordura animal usada em velas e sabão; (Bras.) livraria de usados.",
+        "answer": "SEBO",
+        "start": {
+          "row": 0,
+          "col": 4
+        }
+      },
+      {
+        "id": "4-down",
+        "number": 4,
+        "direction": "down",
+        "clue": "Disparo de arma de fogo; (fig.) tentativa arriscada.",
+        "answer": "TIRO",
+        "start": {
+          "row": 0,
+          "col": 5
+        }
+      },
+      {
+        "id": "5-down",
+        "number": 5,
+        "direction": "down",
+        "clue": "Separar do contato com outrem; pôr à parte.",
+        "answer": "ISOLAR",
+        "start": {
+          "row": 0,
+          "col": 6
+        }
+      },
+      {
+        "id": "6-down",
+        "number": 6,
+        "direction": "down",
+        "clue": "Proteger contra danos; pôr a salvo.",
+        "answer": "RESGUARDAR",
+        "start": {
+          "row": 0,
+          "col": 9
+        }
+      },
+      {
+        "id": "7-across",
+        "number": 7,
+        "direction": "across",
+        "clue": "Normas jurídicas estabelecidas pelo Estado (pl.).",
+        "answer": "LEIS",
+        "start": {
+          "row": 1,
+          "col": 3
+        }
+      },
+      {
+        "id": "8-across",
+        "number": 8,
+        "direction": "across",
+        "clue": "Bodes; animais caprinos machos (pl.).",
+        "answer": "CABROS",
+        "start": {
+          "row": 2,
+          "col": 2
+        }
+      },
+      {
+        "id": "8-down",
+        "number": 8,
+        "direction": "down",
+        "clue": "Aquele que coage ou força alguém a fazer algo.",
+        "answer": "COATOR",
+        "start": {
+          "row": 2,
+          "col": 2
+        }
+      },
+      {
+        "id": "9-down",
+        "number": 9,
+        "direction": "down",
+        "clue": "Compartimentos habitáveis logo abaixo do telhado (pl.).",
+        "answer": "SOTAOS",
+        "start": {
+          "row": 2,
+          "col": 7
+        }
+      },
+      {
+        "id": "10-across",
+        "number": 10,
+        "direction": "across",
+        "clue": "Elemento de composição de origem grega: Deus.",
+        "answer": "TEO",
+        "start": {
+          "row": 3,
+          "col": 0
+        }
+      },
+      {
+        "id": "11-down",
+        "number": 11,
+        "direction": "down",
+        "clue": "Título de soberanos ou príncipes no mundo árabe.",
+        "answer": "EMIR",
+        "start": {
+          "row": 3,
+          "col": 1
+        }
+      },
+      {
+        "id": "12-across",
+        "number": 12,
+        "direction": "across",
+        "clue": "Chá chinês tradicional de oxidação parcial (semifermentado).",
+        "answer": "OOLONG",
+        "start": {
+          "row": 3,
+          "col": 4
+        }
+      },
+      {
+        "id": "13-down",
+        "number": 13,
+        "direction": "down",
+        "clue": "Contração gramatical: em + ela.",
+        "answer": "NELA",
+        "start": {
+          "row": 3,
+          "col": 8
+        }
+      },
+      {
+        "id": "14-across",
+        "number": 14,
+        "direction": "across",
+        "clue": "Linha de computadores 'all-in-one' da Apple.",
+        "answer": "IMAC",
+        "start": {
+          "row": 4,
+          "col": 0
+        }
+      },
+      {
+        "id": "15-down",
+        "number": 15,
+        "direction": "down",
+        "clue": "Unida com linha e agulha; costurada (fem.).",
+        "answer": "COSIDA",
+        "start": {
+          "row": 4,
+          "col": 3
+        }
+      },
+      {
+        "id": "16-across",
+        "number": 16,
+        "direction": "across",
+        "clue": "Aquele que não crê na existência de Deus.",
+        "answer": "ATEU",
+        "start": {
+          "row": 4,
+          "col": 6
+        }
+      },
+      {
+        "id": "17-across",
+        "number": 17,
+        "direction": "across",
+        "clue": "Narrativa fantástica; (fig.) coisa ou pessoa idealizada.",
+        "answer": "MITO",
+        "start": {
+          "row": 5,
+          "col": 0
+        }
+      },
+      {
+        "id": "18-across",
+        "number": 18,
+        "direction": "across",
+        "clue": "Que tem pouca espessura ou densidade (fem.).",
+        "answer": "RALA",
+        "start": {
+          "row": 5,
+          "col": 6
+        }
+      },
+      {
+        "id": "19-across",
+        "number": 19,
+        "direction": "across",
+        "clue": "Desgaste da superfície terrestre por agentes mecânicos ou químicos.",
+        "answer": "EROSAO",
+        "start": {
+          "row": 6,
+          "col": 0
+        }
+      },
+      {
+        "id": "20-down",
+        "number": 20,
+        "direction": "down",
+        "clue": "Peixe marinho de grande porte, muito consumido em conservas.",
+        "answer": "ATUM",
+        "start": {
+          "row": 6,
+          "col": 4
+        }
+      },
+      {
+        "id": "21-down",
+        "number": 21,
+        "direction": "down",
+        "clue": "Sigla para Organização Mundial do Movimento Escoteiro.",
+        "answer": "OMME",
+        "start": {
+          "row": 6,
+          "col": 5
+        }
+      },
+      {
+        "id": "22-across",
+        "number": 22,
+        "direction": "across",
+        "clue": "Sufixo de terminação verbal (Ex: abençoar).",
+        "answer": "OAR",
+        "start": {
+          "row": 6,
+          "col": 7
+        }
+      },
+      {
+        "id": "23-across",
+        "number": 23,
+        "direction": "across",
+        "clue": "Sucessões de tempos fortes e fracos; cadências (pl.).",
+        "answer": "RITMOS",
+        "start": {
+          "row": 7,
+          "col": 2
+        }
+      },
+      {
+        "id": "24-down",
+        "number": 24,
+        "direction": "down",
+        "clue": "Sigla para Observatório Astronômico Nacional.",
+        "answer": "OAN",
+        "start": {
+          "row": 7,
+          "col": 6
+        }
+      },
+      {
+        "id": "25-across",
+        "number": 25,
+        "direction": "across",
+        "clue": "Contração gramatical: de + uma.",
+        "answer": "DUMA",
+        "start": {
+          "row": 8,
+          "col": 3
+        }
+      },
+      {
+        "id": "26-across",
+        "number": 26,
+        "direction": "across",
+        "clue": "Calcular ou estimar o custo de algo.",
+        "answer": "ORÇAMENTAR",
+        "start": {
+          "row": 9,
+          "col": 0
+        }
+      }
+    ]
+  }
+]
