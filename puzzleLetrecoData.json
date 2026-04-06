@@ -178,5 +178,185 @@
     "date": "2026-03-30",
     "word": "TOMOU",
     "difficulty": "Médio"
+  },
+  {
+    "id": 31,
+    "date": "2026-04-01",
+    "word": "URUBU",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 32,
+    "date": "2026-04-02",
+    "word": "MASSA",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 33,
+    "date": "2026-04-03",
+    "word": "CLIMA",
+    "difficulty": "Média"
+  },
+  {
+    "id": 34,
+    "date": "2026-04-04",
+    "word": "ZUMBI",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 35,
+    "date": "2026-04-05",
+    "word": "CARRO",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 36,
+    "date": "2026-04-06",
+    "word": "FOLHA",
+    "difficulty": "Média"
+  },
+  {
+    "id": 37,
+    "date": "2026-04-07",
+    "word": "XENON",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 38,
+    "date": "2026-04-08",
+    "word": "PORTA",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 39,
+    "date": "2026-04-09",
+    "word": "BRISA",
+    "difficulty": "Média"
+  },
+  {
+    "id": 40,
+    "date": "2026-04-10",
+    "word": "BEIJO",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 41,
+    "date": "2026-04-11",
+    "word": "AMIGO",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 42,
+    "date": "2026-04-12",
+    "word": "CHUVA",
+    "difficulty": "Média"
+  },
+  {
+    "id": 43,
+    "date": "2026-04-13",
+    "word": "QUINA",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 44,
+    "date": "2026-04-14",
+    "word": "CAMPO",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 45,
+    "date": "2026-04-15",
+    "word": "ROSTO",
+    "difficulty": "Média"
+  },
+  {
+    "id": 46,
+    "date": "2026-04-16",
+    "word": "LINCE",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 47,
+    "date": "2026-04-17",
+    "word": "NOITE",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 48,
+    "date": "2026-04-18",
+    "word": "SONHO",
+    "difficulty": "Média"
+  },
+  {
+    "id": 49,
+    "date": "2026-04-19",
+    "word": "BICHO",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 50,
+    "date": "2026-04-20",
+    "word": "CASAR",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 51,
+    "date": "2026-04-21",
+    "word": "PRAIA",
+    "difficulty": "Média"
+  },
+  {
+    "id": 52,
+    "date": "2026-04-22",
+    "word": "MAGMA",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 53,
+    "date": "2026-04-23",
+    "word": "TARDE",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 54,
+    "date": "2026-04-24",
+    "word": "VIDRO",
+    "difficulty": "Média"
+  },
+  {
+    "id": 55,
+    "date": "2026-04-25",
+    "word": "JUNCO",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 56,
+    "date": "2026-04-26",
+    "word": "PEDRA",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 57,
+    "date": "2026-04-27",
+    "word": "CANTO",
+    "difficulty": "Média"
+  },
+  {
+    "id": 58,
+    "date": "2026-04-28",
+    "word": "NINFA",
+    "difficulty": "Difícil"
+  },
+  {
+    "id": 59,
+    "date": "2026-04-29",
+    "word": "LIVRO",
+    "difficulty": "Fácil"
+  },
+  {
+    "id": 60,
+    "date": "2026-04-30",
+    "word": "GRAMA",
+    "difficulty": "Média"
   }
 ]
